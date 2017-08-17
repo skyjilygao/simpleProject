@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Interview" />
         <module name="SuperCalculator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Interview" target="1.5" />
       <module name="simpleProject" target="1.5" />
       <module name="SuperCalculator" target="1.5" />
     </bytecodeTargetLevel>
