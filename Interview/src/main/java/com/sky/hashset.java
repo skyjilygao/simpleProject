@@ -1,5 +1,7 @@
 package com.sky;
 
+import org.hibernate.Criteria;
+
 import java.util.HashSet;
 
 /**
@@ -17,6 +19,10 @@ public class hashset {
         Integer i2=150;
         System.out.println(i1==i2);
 
+        Integer i3=1;
+        Integer i4=1;
+        System.out.println("i3==i4:"+(i3==i4));
+
         String str1="hello";
         String str2=str1;
         str1="abc";
@@ -24,8 +30,23 @@ public class hashset {
         System.out.println(str1);
         System.out.println(str2);
         System.out.println("str1==str2:"+(str1==str2));
+
+        int ai=1;
+        System.out.println(ai++);
+        System.out.println(ai);
+
+
     }
     public static void changeStr(String str){
         str="abc";
     }
+    public void dao(){
+
+//        Criteria.ALIAS_TO_ENTITY_MAP;
+//Criteria.DISTINCT_ROOT_ENTITY
+//Criteria.PROJECTION
+//        Criteria.ROOT_ENTITY
+
+    }
+
 }
