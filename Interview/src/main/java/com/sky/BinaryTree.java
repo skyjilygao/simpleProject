@@ -1,6 +1,7 @@
 package com.sky;
 
 import java.util.LinkedList;
+import java.util.Stack;
 
 /**
  * Created by SKYJILYGAO on 2017/8/27.
@@ -97,12 +98,70 @@ public class BinaryTree {
                 p = p.getLeftNode();
             }else{
                 System.out.print("^ ");
-                p = stack.pop();
+                p = stack.pop();//返回当前栈顶的值。逐级向上返回根节点信息
                 p = p.getRightNode();
             }
         }
     }
 
+    /**
+     * 非递归：中序遍历
+     * 遍历顺序：左根右
+     */
+    public void inOrderByNonRecursion(){
+        LinkedStack<BinaryNode> stack=new LinkedStack<BinaryNode>();
+        BinaryNode p=this.root;
+        while (p != null || !stack.isEmpty()){
+//            if(p != null){
+//                System.out.println(p.getValue());
+//            }
+            if(p != null){
+                System.out.print("^ ");
+                stack.push(p);
+                p=p.getLeftNode();
+            }else{
+                p=stack.pop();
+                System.out.print(p.getValue());
+                p=p.getRightNode();
+            }
+        }
+    }
+
+    /**
+     * 非递归：后序遍历
+     * 遍历顺序：左右根
+     */
+    public void postOrderByNonRecuresion(){
+        LinkedStack<BinaryNode> stack=new LinkedStack<BinaryNode>();
+        LinkedStack<BinaryNode> output=new LinkedStack<BinaryNode>();
+        BinaryNode p=this.root;
+        while (p != null || !stack.isEmpty()){
+            if(p != null){
+                stack.push(p);
+                output.push(p);//保存到待操作栈
+                p=p.getRightNode();
+            }else{
+                output.push(new BinaryNode(null));//将null入待操作栈
+                p=stack.pop();
+                p=p.getLeftNode();
+            }
+        }
+
+        //依次出栈
+        while (!output.isEmpty()){
+            BinaryNode node=output.pop();
+            if(node.getValue()==null){
+                System.out.print("^");
+            }else{
+                System.out.print(node.getValue());
+            }
+        }
+    }
+
+    /**
+     * mian，主函数，程序入口。
+     * @param args
+     */
     public static void main(String[] args){
         BinaryTree tree=new BinaryTree();
         BinaryNode b=tree.generateTree(new int[] { 1, 2, 3, 4, 5, 6, 7, 8 });
@@ -114,8 +173,13 @@ public class BinaryTree {
 //        tree.inOrderByRecursion(b);
 //        System.out.println("递归-后序遍历：");
 //        tree.postOrderByRecursion(b);
-        System.out.println("非递归-前序遍历：");
+        System.out.println("非递归-先序遍历：");
         tree.preOrderByNonRecursion(b);
+        System.out.println("\n非递归-中序遍历：");
+        tree.inOrderByNonRecursion();
+        System.out.println("\n非递归-后序遍历：");
+        tree.postOrderByNonRecuresion();
+//        tree.postorderTraverse();
     }
 }
 
@@ -166,4 +230,113 @@ class BinaryNode<T>{
                 ", rightNode=" + rightNode +
                 '}';
     }
+}
+
+/**
+ * 保存二叉树中的数据
+ * @param <E>
+ */
+class LinkNode<E> {
+    /**
+     * 表示存储在节点中的数据项
+     */
+    private E data;
+
+    private LinkNode<E> next;
+
+    public LinkNode(E data) {
+        this.data = data;
+        this.next = null;
+    }
+
+    public LinkNode(E data, LinkNode next) {
+        this.data = data;
+        this.next = next;
+
+    }
+
+    public E getData() {
+        return data;
+    }
+
+    public void setData(E data) {
+        this.data = data;
+    }
+
+    public LinkNode<E> getNext() {
+        return next;
+    }
+
+    public void setNext(LinkNode<E> next) {
+        this.next = next;
+    }
+
+}
+
+/**
+ * 链表栈
+ * 存储二叉树值
+ * @param <E>
+ */
+class LinkedStack<E> extends Stack<E> {
+    // 表示链表的头结点
+    private LinkNode<E> top;
+
+    // 表示链表中当前的元素个数
+    private int size;
+
+    public LinkedStack() {
+        this.top = null;
+        size = 0;
+
+    }
+
+    public boolean isEmpty() {
+        return top == null;
+    }
+
+    public E pop() {
+        if (isEmpty()) {
+
+            throw new RuntimeException("链表为空!!");
+        }
+        // 将栈顶元素的值保存起来
+        E tempData = top.getData();
+        // 然后出栈，次栈顶元素成为新的栈顶元素
+        top = top.getNext();
+        // 栈中元素个数减少一
+        size--;
+        return tempData;
+    }
+
+    public E push(E target) {
+        if(target==null){
+            throw new RuntimeException("不能往栈中加入null元素");
+
+        }
+        LinkNode<E> newNode = new LinkNode<E>(target);
+        if (isEmpty()) {
+            top = newNode;
+        } else {
+            //新加入的节点放入栈中,并指向原来的top节点
+            newNode.setNext(top);
+            // 新加入的元素成为了新的栈顶
+            top = newNode;
+        }
+        size++;
+        return target;
+    }
+
+    public int size() {
+        return size;
+    }
+
+    public E top() {
+        if (isEmpty()) {
+
+            throw new RuntimeException("链表为空!!");
+        }
+        return top.getData();
+    }
+
 }
