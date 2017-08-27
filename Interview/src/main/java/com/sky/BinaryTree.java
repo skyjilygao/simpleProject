@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 /**
  * Created by SKYJILYGAO on 2017/8/27.
- * 前序／中序／后序 3种遍历需要在于输出value顺序不同
+ * 先序／中序／后序 3种遍历需要在于输出value顺序不同
  */
 public class BinaryTree {
     public BinaryNode root;
@@ -44,15 +44,15 @@ public class BinaryTree {
     }
 
     /**
-     * 递归：前序遍历
+     * 递归：先序遍历
      * 遍历顺序：根左右
      * @param p
      */
-    public void preOrder(BinaryNode p){
+    public void preOrderByRecursion(BinaryNode p){
         if(p != null){
             System.out.println(p.getValue());
-            preOrder(p.getLeftNode());
-            preOrder(p.getRightNode());
+            preOrderByRecursion(p.getLeftNode());
+            preOrderByRecursion(p.getRightNode());
         }
     }
 
@@ -61,11 +61,11 @@ public class BinaryTree {
      * 遍历顺序：左根右
      * @param p
      */
-    public void inOrder(BinaryNode p){
+    public void inOrderByRecursion(BinaryNode p){
         if(p != null){
-            inOrder(p.getLeftNode());
+            inOrderByRecursion(p.getLeftNode());
             System.out.println(p.getValue());
-            inOrder(p.getRightNode());
+            inOrderByRecursion(p.getRightNode());
         }
     }
 
@@ -74,11 +74,32 @@ public class BinaryTree {
      * 遍历顺序：左右根
      * @param p
      */
-    public void postOrder(BinaryNode p){
+    public void postOrderByRecursion(BinaryNode p){
         if(p != null){
-            postOrder(p.getLeftNode());
-            postOrder(p.getRightNode());
+            postOrderByRecursion(p.getLeftNode());
+            postOrderByRecursion(p.getRightNode());
             System.out.println(p.getValue());
+        }
+    }
+
+    /**
+     * 非递归：前序遍历
+     * 遍历顺序：根左右
+     * @param p1
+     */
+    public void preOrderByNonRecursion(BinaryNode p1){
+        LinkedStack<BinaryNode> stack = new LinkedStack<BinaryNode>();
+        BinaryNode p = this.root;
+        while(p!=null||!stack.isEmpty()){
+            if(p!=null){
+                System.out.print(p.getValue());
+                stack.push(p);
+                p = p.getLeftNode();
+            }else{
+                System.out.print("^ ");
+                p = stack.pop();
+                p = p.getRightNode();
+            }
         }
     }
 
@@ -87,12 +108,14 @@ public class BinaryTree {
         BinaryNode b=tree.generateTree(new int[] { 1, 2, 3, 4, 5, 6, 7, 8 });
         System.out.println(b.toString());
         //递归遍历
-        System.out.println("递归-前序遍历：");
-        tree.preOrder(b);
-        System.out.println("递归-中序遍历：");
-        tree.inOrder(b);
-        System.out.println("递归-后序遍历：");
-        tree.postOrder(b);
+//        System.out.println("递归-前序遍历：");
+//        tree.preOrderByRecursion(b);
+//        System.out.println("递归-中序遍历：");
+//        tree.inOrderByRecursion(b);
+//        System.out.println("递归-后序遍历：");
+//        tree.postOrderByRecursion(b);
+        System.out.println("非递归-前序遍历：");
+        tree.preOrderByNonRecursion(b);
     }
 }
 
