@@ -2,6 +2,7 @@ package com.sky;
 
 import org.hibernate.Criteria;
 
+import java.util.HashMap;
 import java.util.HashSet;
 
 /**
@@ -34,8 +35,13 @@ public class hashset {
         int ai=1;
         System.out.println(ai++);
         System.out.println(ai);
+        HashMap map=new HashMap();
+        map.values();
 
-
+        Object object=new Object();
+        object.hashCode();
+        HashMap map1=new HashMap();
+        map1.hashCode();
     }
     public static void changeStr(String str){
         str="abc";

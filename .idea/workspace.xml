@@ -2,11 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec713c9-704f-4530-ae92-3c5d646ac08f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/hibenrnate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/BinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/JNumbersByRecursion2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/TestObj.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/TestSyncMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/abstractc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/AboutOXCoder" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/Example.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/JNumbersByRecursion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/MirrorBinaryTreeNonRecursion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/ObserverTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/PrototypeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/Square.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/tryCatchFinally.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interview/src/main/java/com/sky/hibenrnate.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interview/Interview.iml" afterPath="$PROJECT_DIR$/Interview/Interview.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interview/pom.xml" afterPath="$PROJECT_DIR$/Interview/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interview/src/main/java/com/sky/hashset.java" afterPath="$PROJECT_DIR$/Interview/src/main/java/com/sky/hashset.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,107 +39,91 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview/pom.xml">
+      <file leaf-file-name="JNumbersByRecursion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/JNumbersByRecursion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            <state relative-caret-position="132">
+              <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/A.java">
+      <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="20">
+              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
               <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#507#528#0" expanded="true" />
+                <element signature="e#2656#2657#0" expanded="true" />
+                <element signature="e#2684#2685#0" expanded="true" />
+                <element signature="e#2721#2722#0" expanded="true" />
+                <element signature="e#2755#2756#0" expanded="true" />
+                <element signature="e#2794#2795#0" expanded="true" />
+                <element signature="e#2825#2826#0" expanded="true" />
+                <element signature="e#2877#2878#0" expanded="true" />
+                <element signature="e#2917#2918#0" expanded="true" />
+                <element signature="e#2957#2958#0" expanded="true" />
+                <element signature="e#2989#2990#0" expanded="true" />
+                <element signature="e#3043#3044#0" expanded="true" />
+                <element signature="e#3085#3086#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="B.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/B.java">
+      <file leaf-file-name="MirrorBinaryTreeNonRecursion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/MirrorBinaryTreeNonRecursion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="275">
+              <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
               <folding>
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#557#582#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hashset.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/hashset.java">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="116">
+              <caret line="139" column="9" lean-forward="false" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+              <folding>
+                <element signature="e#8248#8249#0" expanded="true" />
+                <element signature="e#8275#8276#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JNumbersByRecursion2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/JNumbersByRecursion2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="611">
+              <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#885#886#0" expanded="true" />
-                <element signature="e#910#911#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#407#1256#0" expanded="true" />
+                <element signature="e#1255#1256#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hibenrnate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/hibenrnate.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-973">
-              <caret line="110" column="19" lean-forward="false" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashSet.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="104" column="21" lean-forward="false" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
+            <state relative-caret-position="240">
+              <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
               <folding>
-                <element signature="e#3709#3710#0" expanded="true" />
-                <element signature="e#3746#3747#0" expanded="true" />
-                <element signature="e#8033#8034#0" expanded="true" />
-                <element signature="e#8081#8082#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-159">
-              <caret line="641" column="62" lean-forward="false" selection-start-line="641" selection-start-column="62" selection-end-line="641" selection-end-column="62" />
-              <folding>
-                <element signature="e#19296#19297#0" expanded="true" />
-                <element signature="e#19379#19380#0" expanded="true" />
-                <element signature="e#21076#21077#0" expanded="true" />
-                <element signature="e#21103#21104#0" expanded="true" />
-                <element signature="e#24298#24299#0" expanded="true" />
-                <element signature="e#24363#24364#0" expanded="true" />
-                <element signature="e#66429#66430#0" expanded="true" />
-                <element signature="e#66486#66487#0" expanded="true" />
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -141,6 +138,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>resize</find>
+      <find>put</find>
+      <find>hashcode</find>
+      <find>identityHashCode</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -154,13 +159,36 @@
       <list>
         <option value="$PROJECT_DIR$/SuperCalculator/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/SuperCalculator/src/main/java/com/sky/SuperMultiply.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/A.java" />
         <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/B.java" />
         <option value="$PROJECT_DIR$/Interview/pom.xml" />
-        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/hibenrnate.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/a.xml" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/TestSyncMethods.java" />
+        <option value="$PROJECT_DIR$/SuperCalculator/src/main/java/com/sky/SuperMultiply.java" />
+        <option value="$PROJECT_DIR$/SuperCalculator/src/main/java/com/sky/SupperPlus.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/AtomicClass.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/tryCatchFinally.java" />
         <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/hashset.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/Test.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/ObserverTest.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/Example.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/Square.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/abstractc.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/TestObj.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/MirrorBinaryTreeNonRecursion.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/MirrorBinaryTreeNonRecursion.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/Square.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/Example.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/AboutOXCoder" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/PrototypeTest.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/ObserverTest.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/Main.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/hibenrnate.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/JNumbersByRecursion2.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/JNumbersByRecursion.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/JNumbersByRecursion.java" />
+        <option value="$PROJECT_DIR$/Interview/src/main/java/com/sky/BinaryTree.java" />
       </list>
     </option>
   </component>
@@ -178,8 +206,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="722" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -200,6 +229,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -296,9 +326,110 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simpleProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simpleProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Main.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simpleProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simpleProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BinaryTree.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simpleProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simpleProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oxcoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -309,7 +440,6 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -323,35 +453,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hashset">
-    <configuration default="false" name="SuperMultiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.BinaryTree">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.sky.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.sky.SuperMultiply" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SuperCalculator" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.sky.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.sky.B" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -364,14 +474,74 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="hashset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="JNumbersByRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.sky.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.sky.hashset" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.JNumbersByRecursion" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Interview" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sky.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.sky.BinaryTree" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Interview" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="JNumbersByRecursion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sky.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.sky.JNumbersByRecursion2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Interview" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="JNumbersByRecursion (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sky.oxcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.sky.oxcoder.JNumbersByRecursion" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -771,16 +941,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Application.SuperMultiply" />
-      <item index="1" class="java.lang.String" itemvalue="Application.B" />
-      <item index="2" class="java.lang.String" itemvalue="Application.hashset" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.JNumbersByRecursion" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BinaryTree" />
+      <item index="3" class="java.lang.String" itemvalue="Application.JNumbersByRecursion2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JNumbersByRecursion (1)" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.hashset" />
-        <item index="1" class="java.lang.String" itemvalue="Application.B" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SuperMultiply" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.BinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JNumbersByRecursion (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.JNumbersByRecursion" />
+        <item index="3" class="java.lang.String" itemvalue="Application.JNumbersByRecursion2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -795,7 +969,10 @@
       <option name="presentableId" value="Default" />
       <updated>1500952434984</updated>
       <workItem from="1500952436440" duration="1773000" />
-      <workItem from="1502888352142" duration="7456000" />
+      <workItem from="1502888352142" duration="7487000" />
+      <workItem from="1503307009551" duration="553000" />
+      <workItem from="1503317583000" duration="12000" />
+      <workItem from="1503322252564" duration="34111000" />
     </task>
     <task id="LOCAL-00001" summary="增加Interview面试题">
       <created>1502931040105</created>
@@ -811,39 +988,61 @@
       <option name="project" value="LOCAL" />
       <updated>1502976332655</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="22">
+      <created>1503109916512</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1503109916512</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加大数相加。&#10;由于在首汽共享中面试遇到，在此增加大数相加demo&#10;20170823104300">
+      <created>1503456241636</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1503456241636</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加大数相加。&#10;由于在首汽共享中面试遇到，在此增加大数相加demo&#10;20170823104300">
+      <created>1503456503953</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1503456503953</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9229000" />
+    <option name="totallyTimeSpent" value="43936000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="722" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3252841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3245033" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32781458" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32781458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2657512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34232953" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42218542" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -886,11 +1085,39 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加Interview面试题" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加Interview面试题" />
+    <MESSAGE value="22" />
+    <MESSAGE value="增加大数相加。&#10;由于在首汽共享中面试遇到，在此增加大数相加demo&#10;20170823104300" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加大数相加。&#10;由于在首汽共享中面试遇到，在此增加大数相加demo&#10;20170823104300" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Interview/src/main/java/com/sky/Main.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Interview/src/main/java/com/sky/JNumbersByRecursion2.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Interview/src/main/java/com/sky/JNumbersByRecursion2.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Interview/src/main/java/com/sky/JNumbersByRecursion2.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -899,6 +1126,155 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/JNumbersByRecursion2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="110" column="19" lean-forward="false" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#123975#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4677#4678#0" expanded="false" />
+            <element signature="e#4717#4718#0" expanded="false" />
+            <element signature="e#5690#5691#0" expanded="false" />
+            <element signature="e#5753#5754#0" expanded="false" />
+            <element signature="e#12762#12763#0" expanded="false" />
+            <element signature="e#12814#12815#0" expanded="false" />
+            <element signature="e#18445#18446#0" expanded="false" />
+            <element signature="e#18498#18499#0" expanded="false" />
+            <element signature="e#20391#20392#0" expanded="false" />
+            <element signature="e#20435#20436#0" expanded="false" />
+            <element signature="e#21625#21626#0" expanded="false" />
+            <element signature="e#21705#21706#0" expanded="false" />
+            <element signature="e#22450#22451#0" expanded="false" />
+            <element signature="e#22485#22486#0" expanded="false" />
+            <element signature="e#22736#22737#0" expanded="false" />
+            <element signature="e#22776#22777#0" expanded="false" />
+            <element signature="e#29126#29127#0" expanded="false" />
+            <element signature="e#29197#29198#0" expanded="false" />
+            <element signature="e#36057#36058#0" expanded="false" />
+            <element signature="e#36123#36124#0" expanded="false" />
+            <element signature="e#38033#38034#0" expanded="false" />
+            <element signature="e#38087#38088#0" expanded="false" />
+            <element signature="e#47202#47203#0" expanded="false" />
+            <element signature="e#47266#47267#0" expanded="false" />
+            <element signature="e#55464#55465#0" expanded="false" />
+            <element signature="e#55508#55509#0" expanded="false" />
+            <element signature="e#56101#56102#0" expanded="false" />
+            <element signature="e#56178#56179#0" expanded="false" />
+            <element signature="e#58145#58146#0" expanded="false" />
+            <element signature="e#58182#58183#0" expanded="false" />
+            <element signature="e#62524#62525#0" expanded="false" />
+            <element signature="e#62580#62581#0" expanded="false" />
+            <element signature="e#66121#66122#0" expanded="false" />
+            <element signature="e#66159#66160#0" expanded="false" />
+            <element signature="e#70413#70414#0" expanded="false" />
+            <element signature="e#70466#70467#0" expanded="false" />
+            <element signature="e#77904#77905#0" expanded="false" />
+            <element signature="e#77963#77964#0" expanded="false" />
+            <element signature="e#82280#82281#0" expanded="false" />
+            <element signature="e#82331#82332#0" expanded="false" />
+            <element signature="e#82635#82636#0" expanded="false" />
+            <element signature="e#82684#82685#0" expanded="false" />
+            <element signature="e#94262#94263#0" expanded="false" />
+            <element signature="e#94300#94301#0" expanded="false" />
+            <element signature="e#104339#104340#0" expanded="false" />
+            <element signature="e#104394#104395#0" expanded="false" />
+            <element signature="e#110860#110861#0" expanded="false" />
+            <element signature="e#110915#110916#0" expanded="false" />
+            <element signature="e#113007#113008#0" expanded="false" />
+            <element signature="e#113034#113035#0" expanded="false" />
+            <element signature="e#117557#117558#0" expanded="false" />
+            <element signature="e#117619#117620#0" expanded="false" />
+            <element signature="e#118069#118070#0" expanded="false" />
+            <element signature="e#118108#118109#0" expanded="false" />
+            <element signature="e#119120#119121#0" expanded="false" />
+            <element signature="e#119174#119175#0" expanded="false" />
+            <element signature="e#119823#119824#0" expanded="false" />
+            <element signature="e#119877#119878#0" expanded="false" />
+            <element signature="e#120146#120147#0" expanded="false" />
+            <element signature="e#120185#120186#0" expanded="false" />
+            <element signature="e#120553#120554#0" expanded="false" />
+            <element signature="e#120596#120597#0" expanded="false" />
+            <element signature="e#121391#121392#0" expanded="false" />
+            <element signature="e#121433#121434#0" expanded="false" />
+            <element signature="e#121848#121849#0" expanded="false" />
+            <element signature="e#121887#121888#0" expanded="false" />
+            <element signature="e#122309#122310#0" expanded="false" />
+            <element signature="e#122349#122350#0" expanded="false" />
+            <element signature="e#122779#122780#0" expanded="false" />
+            <element signature="e#122820#122821#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="104" column="21" lean-forward="false" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#12854#0" expanded="false" />
+            <element signature="e#4834#4835#0" expanded="false" />
+            <element signature="e#4898#4899#0" expanded="false" />
+            <element signature="e#5293#5294#0" expanded="false" />
+            <element signature="e#5345#5346#0" expanded="false" />
+            <element signature="e#6453#6454#0" expanded="false" />
+            <element signature="e#6499#6500#0" expanded="false" />
+            <element signature="e#6684#6685#0" expanded="false" />
+            <element signature="e#6717#6718#0" expanded="false" />
+            <element signature="e#6897#6898#0" expanded="false" />
+            <element signature="e#6933#6934#0" expanded="false" />
+            <element signature="e#7396#7397#0" expanded="false" />
+            <element signature="e#7437#7438#0" expanded="false" />
+            <element signature="e#8731#8732#0" expanded="false" />
+            <element signature="e#8776#8777#0" expanded="false" />
+            <element signature="e#8923#8924#0" expanded="false" />
+            <element signature="e#8950#8951#0" expanded="false" />
+            <element signature="e#12773#12774#0" expanded="false" />
+            <element signature="e#12850#12851#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8940">
+          <caret line="641" column="62" lean-forward="false" selection-start-line="641" selection-start-column="62" selection-end-line="641" selection-end-column="62" />
+          <folding>
+            <element signature="e#15620#15663#0" expanded="false" />
+            <element signature="e#27845#27888#1" expanded="false" />
+            <element signature="e#53732#53775#1" expanded="false" />
+            <element signature="e#54006#54036#1" expanded="false" />
+            <element signature="e#54101#54131#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/hashset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -911,7 +1287,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,7 +1294,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -927,7 +1301,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -936,7 +1309,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -954,7 +1326,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -962,88 +1333,123 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SuperCalculator/src/main/java/com/sky/SuperMultiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/B.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="255">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="1200">
           <caret line="104" column="21" lean-forward="false" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
           <folding>
-            <element signature="e#3709#3710#0" expanded="true" />
-            <element signature="e#3746#3747#0" expanded="true" />
-            <element signature="e#8033#8034#0" expanded="true" />
-            <element signature="e#8081#8082#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-159">
-          <caret line="641" column="62" lean-forward="false" selection-start-line="641" selection-start-column="62" selection-end-line="641" selection-end-column="62" />
-          <folding>
-            <element signature="e#19296#19297#0" expanded="true" />
-            <element signature="e#19379#19380#0" expanded="true" />
-            <element signature="e#21076#21077#0" expanded="true" />
-            <element signature="e#21103#21104#0" expanded="true" />
-            <element signature="e#24298#24299#0" expanded="true" />
-            <element signature="e#24363#24364#0" expanded="true" />
-            <element signature="e#66429#66430#0" expanded="true" />
-            <element signature="e#66486#66487#0" expanded="true" />
+            <element signature="e#0#12854#0" expanded="false" />
+            <element signature="e#4834#4835#0" expanded="false" />
+            <element signature="e#4898#4899#0" expanded="false" />
+            <element signature="e#5293#5294#0" expanded="false" />
+            <element signature="e#5345#5346#0" expanded="false" />
+            <element signature="e#6453#6454#0" expanded="false" />
+            <element signature="e#6499#6500#0" expanded="false" />
+            <element signature="e#6684#6685#0" expanded="false" />
+            <element signature="e#6717#6718#0" expanded="false" />
+            <element signature="e#6897#6898#0" expanded="false" />
+            <element signature="e#6933#6934#0" expanded="false" />
+            <element signature="e#7396#7397#0" expanded="false" />
+            <element signature="e#7437#7438#0" expanded="false" />
+            <element signature="e#8731#8732#0" expanded="false" />
+            <element signature="e#8776#8777#0" expanded="false" />
+            <element signature="e#8923#8924#0" expanded="false" />
+            <element signature="e#8950#8951#0" expanded="false" />
+            <element signature="e#12773#12774#0" expanded="false" />
+            <element signature="e#12850#12851#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-973">
+        <state relative-caret-position="1125">
           <caret line="110" column="19" lean-forward="false" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-          <folding />
+          <folding>
+            <element signature="e#0#123975#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4677#4678#0" expanded="false" />
+            <element signature="e#4717#4718#0" expanded="false" />
+            <element signature="e#5690#5691#0" expanded="false" />
+            <element signature="e#5753#5754#0" expanded="false" />
+            <element signature="e#12762#12763#0" expanded="false" />
+            <element signature="e#12814#12815#0" expanded="false" />
+            <element signature="e#18445#18446#0" expanded="false" />
+            <element signature="e#18498#18499#0" expanded="false" />
+            <element signature="e#20391#20392#0" expanded="false" />
+            <element signature="e#20435#20436#0" expanded="false" />
+            <element signature="e#21625#21626#0" expanded="false" />
+            <element signature="e#21705#21706#0" expanded="false" />
+            <element signature="e#22450#22451#0" expanded="false" />
+            <element signature="e#22485#22486#0" expanded="false" />
+            <element signature="e#22736#22737#0" expanded="false" />
+            <element signature="e#22776#22777#0" expanded="false" />
+            <element signature="e#29126#29127#0" expanded="false" />
+            <element signature="e#29197#29198#0" expanded="false" />
+            <element signature="e#36057#36058#0" expanded="false" />
+            <element signature="e#36123#36124#0" expanded="false" />
+            <element signature="e#38033#38034#0" expanded="false" />
+            <element signature="e#38087#38088#0" expanded="false" />
+            <element signature="e#47202#47203#0" expanded="false" />
+            <element signature="e#47266#47267#0" expanded="false" />
+            <element signature="e#55464#55465#0" expanded="false" />
+            <element signature="e#55508#55509#0" expanded="false" />
+            <element signature="e#56101#56102#0" expanded="false" />
+            <element signature="e#56178#56179#0" expanded="false" />
+            <element signature="e#58145#58146#0" expanded="false" />
+            <element signature="e#58182#58183#0" expanded="false" />
+            <element signature="e#62524#62525#0" expanded="false" />
+            <element signature="e#62580#62581#0" expanded="false" />
+            <element signature="e#66121#66122#0" expanded="false" />
+            <element signature="e#66159#66160#0" expanded="false" />
+            <element signature="e#70413#70414#0" expanded="false" />
+            <element signature="e#70466#70467#0" expanded="false" />
+            <element signature="e#77904#77905#0" expanded="false" />
+            <element signature="e#77963#77964#0" expanded="false" />
+            <element signature="e#82280#82281#0" expanded="false" />
+            <element signature="e#82331#82332#0" expanded="false" />
+            <element signature="e#82635#82636#0" expanded="false" />
+            <element signature="e#82684#82685#0" expanded="false" />
+            <element signature="e#94262#94263#0" expanded="false" />
+            <element signature="e#94300#94301#0" expanded="false" />
+            <element signature="e#104339#104340#0" expanded="false" />
+            <element signature="e#104394#104395#0" expanded="false" />
+            <element signature="e#110860#110861#0" expanded="false" />
+            <element signature="e#110915#110916#0" expanded="false" />
+            <element signature="e#113007#113008#0" expanded="false" />
+            <element signature="e#113034#113035#0" expanded="false" />
+            <element signature="e#117557#117558#0" expanded="false" />
+            <element signature="e#117619#117620#0" expanded="false" />
+            <element signature="e#118069#118070#0" expanded="false" />
+            <element signature="e#118108#118109#0" expanded="false" />
+            <element signature="e#119120#119121#0" expanded="false" />
+            <element signature="e#119174#119175#0" expanded="false" />
+            <element signature="e#119823#119824#0" expanded="false" />
+            <element signature="e#119877#119878#0" expanded="false" />
+            <element signature="e#120146#120147#0" expanded="false" />
+            <element signature="e#120185#120186#0" expanded="false" />
+            <element signature="e#120553#120554#0" expanded="false" />
+            <element signature="e#120596#120597#0" expanded="false" />
+            <element signature="e#121391#121392#0" expanded="false" />
+            <element signature="e#121433#121434#0" expanded="false" />
+            <element signature="e#121848#121849#0" expanded="false" />
+            <element signature="e#121887#121888#0" expanded="false" />
+            <element signature="e#122309#122310#0" expanded="false" />
+            <element signature="e#122349#122350#0" expanded="false" />
+            <element signature="e#122779#122780#0" expanded="false" />
+            <element signature="e#122820#122821#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1055,22 +1461,325 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/hibenrnate.java">
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/a.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="525">
+          <caret line="188" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="188" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SuperCalculator/src/main/java/com/sky/SupperPlus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="262" column="19" lean-forward="true" selection-start-line="262" selection-start-column="19" selection-end-line="262" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SuperCalculator/src/main/java/com/sky/SuperMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="100" column="26" lean-forward="true" selection-start-line="100" selection-start-column="26" selection-end-line="100" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="155" column="13" lean-forward="false" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/tryCatchFinally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#217#218#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="498" column="19" lean-forward="true" selection-start-line="498" selection-start-column="19" selection-end-line="498" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="335" column="53" lean-forward="true" selection-start-line="335" selection-start-column="53" selection-end-line="335" selection-end-column="53" />
+          <folding>
+            <element signature="e#44131#44132#0" expanded="false" />
+            <element signature="e#44165#44166#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/hashset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="245">
+          <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="295" column="31" lean-forward="true" selection-start-line="295" selection-start-column="31" selection-end-line="295" selection-end-column="31" />
+          <folding>
+            <element signature="e#15620#15663#0" expanded="false" />
+            <element signature="e#27845#27888#1" expanded="false" />
+            <element signature="e#53732#53775#1" expanded="false" />
+            <element signature="e#54006#54036#1" expanded="false" />
+            <element signature="e#54101#54131#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="97" column="33" lean-forward="false" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
+          <folding>
+            <element signature="e#2786#2787#0" expanded="false" />
+            <element signature="e#2837#2838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="507" column="45" lean-forward="false" selection-start-line="507" selection-start-column="29" selection-end-line="507" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="148" column="11" lean-forward="true" selection-start-line="148" selection-start-column="11" selection-end-line="148" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/abstractc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/TestSyncMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="87" column="6" lean-forward="false" selection-start-line="87" selection-start-column="6" selection-end-line="87" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/AboutOXCoder">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="true" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/TestObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#101#214#0" expanded="false" />
+            <element signature="e#213#214#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/PrototypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/ObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#666#667#0" expanded="false" />
+            <element signature="e#687#688#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="139" column="9" lean-forward="false" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+          <folding>
+            <element signature="e#8248#8249#0" expanded="true" />
+            <element signature="e#8275#8276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/MirrorBinaryTreeNonRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#557#582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/JNumbersByRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/JNumbersByRecursion2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#885#886#0" expanded="true" />
-            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#407#1256#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/oxcoder/JNumbersByRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/main/java/com/sky/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#507#528#0" expanded="true" />
+            <element signature="e#2656#2657#0" expanded="true" />
+            <element signature="e#2684#2685#0" expanded="true" />
+            <element signature="e#2721#2722#0" expanded="true" />
+            <element signature="e#2755#2756#0" expanded="true" />
+            <element signature="e#2794#2795#0" expanded="true" />
+            <element signature="e#2825#2826#0" expanded="true" />
+            <element signature="e#2877#2878#0" expanded="true" />
+            <element signature="e#2917#2918#0" expanded="true" />
+            <element signature="e#2957#2958#0" expanded="true" />
+            <element signature="e#2989#2990#0" expanded="true" />
+            <element signature="e#3043#3044#0" expanded="true" />
+            <element signature="e#3085#3086#0" expanded="true" />
           </folding>
         </state>
       </provider>
