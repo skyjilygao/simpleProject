@@ -1,4 +1,4 @@
-package com.sky.oxcoder;
+package com.sky.interview.oxcoder;
 
 public class Square {
    long width;  

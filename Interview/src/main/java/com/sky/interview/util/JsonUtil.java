@@ -1,4 +1,4 @@
-package com.sky.util;
+package com.sky.interview.util;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonNull;

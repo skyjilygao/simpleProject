@@ -1,4 +1,4 @@
-package com.sky;
+package com.sky.interview;
 
 import java.util.LinkedList;
 import java.util.Stack;

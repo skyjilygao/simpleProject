@@ -1,4 +1,4 @@
-package com.sky;
+package com.sky.interview;
 class PrintToMax {
     public String[] s;
     public PrintToMax(int length){

@@ -1,4 +1,4 @@
-package com.sky.util;
+package com.sky.interview.util;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;  

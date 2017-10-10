@@ -1,4 +1,4 @@
-package com.sky;
+package com.sky.interview;
 
 import org.hibernate.Criteria;
 

@@ -1,4 +1,4 @@
-package com.sky;
+package com.sky.interview;
 
 public class TestObj{
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package com.sky.util;
+package com.sky.interview.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;  

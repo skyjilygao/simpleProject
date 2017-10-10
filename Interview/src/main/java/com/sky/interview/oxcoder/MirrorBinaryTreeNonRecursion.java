@@ -1,4 +1,4 @@
-package com.sky.oxcoder;
+package com.sky.interview.oxcoder;
 
 import java.util.LinkedList;
 import java.util.Stack;

@@ -1,4 +1,4 @@
-package com.sky.oxcoder;
+package com.sky.interview.oxcoder;
 
 import java.util.Observable;
 import java.util.Observer;
